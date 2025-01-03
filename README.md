@@ -3,13 +3,8 @@
 ## Overview
 This project leverages machine learning and natural language processing (NLP) techniques to classify mental health-related text into various emotional and psychological statuses. With a dataset of over 50,000 entries, this project provides insights into the potential for AI in mental health analysis.
 
-Key highlights include:
-- Classifying text into seven mental health statuses.
-- Comparing multiple machine learning models for performance.
-- Visualizing results through charts and word clouds.
-
 ## Features
-1. Sentiment analysis of mental health-related text.
+1. Sentiment analysis of mental health.
 2. Comparison of four machine learning models: 
    - Bernoulli Naive Bayes
    - Decision Tree
